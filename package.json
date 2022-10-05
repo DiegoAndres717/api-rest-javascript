@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoAndres717/api-rest-javascript.git"
+  },
+  "author": "@Admin-Pro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoAndres717/api-rest-javascript/issues"
+  },
+  "homepage": "https://github.com/DiegoAndres717/api-rest-javascript#readme"
+}
